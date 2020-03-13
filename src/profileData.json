@@ -1,0 +1,64 @@
+{
+	"landing": {
+		"firstName": "Wallace",
+		"lastName": "Ramon",
+		"phoneNumber": "+55-38997457621",
+		"bio": "Acadêmico de Sistemas de Informação na Universidade de São Paulo - USP, fascinado por programação e extremamente motivado a desenvolver minhas habilidades e crescer profissionalmente. Tenho ótima aptidão para trabalho em equipe, aprender coisas novas com facilidade e solucionar problemas.",
+    "email": "wallacerheimon@gmail.com",
+    "linkedin": "https://linkedin.com/in/wallace-ramon-n-284317112/",
+		"github": "https://github.com/rheimon1"
+	},
+	"experience": [
+		{
+				"position": "Estagiário",
+				"organization": "Opportunity Soluções Digitais",
+				"aboutWork": "Responsável por auxiliar no planejamento, implementação e manutenção de sites e sistemas Web.",
+				"fromDate": "Janeiro de 2019",
+				"toDate": "Janeiro de 2020"
+		},
+		{
+			"position": "Setor de TI",
+			"organization": "Diretório Acadêmico de Sistemas de Informação - DASI/USP",
+			"aboutWork": "...",
+			"fromDate": "Março de 2020",
+			"toDate": "Presente"
+		}
+	],
+	"education": [
+		{
+			"university": "Universidade de São Paulo",
+			"degree": "Bacharelado em Sistemas de Informação",
+			"fromDate": "2020",
+			"toDate": "2023"
+		},
+		{
+			"university": "Universidade Estadual de Montes Claros - Unimontes",
+			"degree": "Bacharelado em Sistemas de Informação",
+			"fromDate": "2018",
+			"toDate": "2019"
+		}
+	],
+	"skills": [
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "GitHub"
+		}
+	],
+	"interests": {
+		"paragraphOne": "",
+		"paragraphTwo": ""
+	},
+	"awards": [
+	]
+}
